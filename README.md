@@ -6,7 +6,7 @@ Opinionated agent workflows to understand and adapt to your project.
 
 - These skills describe my workflows. They won't fit every project, so don't apply them blindly.
 - Read each skill you intend to use, including its supporting files, and understand what it does.
-- Adapt skills to your project's conventions and constraints. Keep the adopted copies editable instead of treating them as immutable packages.
+- Adapt skills to your project's conventions and constraints. Keep the adopted copies editable instead of treating them as immutable packages. [adopt-skill](skills/adopt-skill/SKILL.md) helps with this.
 
 ## Skills
 
