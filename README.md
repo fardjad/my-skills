@@ -19,6 +19,7 @@ Repository license: [MIT](LICENSE).
 | [safe-dotenv](skills/safe-dotenv/SKILL.md) | Reduce the risk of exposing dotenv contents. | Synchronizes adjacent examples and adds an always-on safeguard when adopted. Protection is best effort, not guaranteed. | [MIT](skills/safe-dotenv/LICENSE) |
 | [git-commit-hygiene](skills/git-commit-hygiene/SKILL.md) | Create focused commits and keep unpublished history clean. | No Conventional Commit prefixes. | [MIT](skills/git-commit-hygiene/LICENSE) |
 | [justfile-conventions](skills/justfile-conventions/SKILL.md) | Write consistent justfiles. | Uses lowercase `justfile` and supports native dotenv loading. | [MIT](skills/justfile-conventions/LICENSE) |
+| [test-hygiene](skills/test-hygiene/SKILL.md) | Write and maintain focused, readable tests. | Covers test levels, test doubles, and pruning. | [MIT](skills/test-hygiene/LICENSE) |
 
 ## Adopt skills
 
